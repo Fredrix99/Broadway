@@ -10,7 +10,28 @@ body{
   font-weight: bold;
   color:white;
 }
-.header_bg ul li a {
+.header_bg p a {
   font-size:18px;
   color:white;
+}
+.Contents h3{
+  font-size: 32px;
+  font-weight:bold;
+}
+.Contents h4{
+  font-size:23px;
+  font-weight:bold;
+}
+.Contents p{
+  font-size: 14px;
+}
+#designed_NY{
+  font-size: 23px;
+  font-weight:bold;
+  color: white;
+}
+.foter {
+  font-size: 11px;
+  color:white;
+  background-color: dimgray;
 }
